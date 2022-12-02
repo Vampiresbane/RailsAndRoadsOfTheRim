@@ -10,6 +10,7 @@ Introduction
 This is an continuation and expansion on Loconeko's "Roads of the Rim" which was a successor to Jecrell's RimRoads from beta Rimworld.  This expansion on Roads of the Rim adds buildable rail to the buildable road options. The rail portion of this mod is intended to be used alongside mods such as SRTS Trains and/or Decorative Railway Props.  
 
 Features
+
   *Create Rail or Road Construction Sites on the world map
   *Send Caravans with skilled colonists, pack animals, and resources to build the rail or the road
   *Enjoy faster movement than the base game on high tier roads, including for all already existing roads (can be switched off in the settings)
