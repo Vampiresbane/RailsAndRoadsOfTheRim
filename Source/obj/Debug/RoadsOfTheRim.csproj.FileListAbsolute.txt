@@ -1,0 +1,9 @@
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRimCont Master\RoadsOfTheRim-1.4.2\1.4\Assemblies\RoadsOfTheRim.dll
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRimCont Master\RoadsOfTheRim-1.4.2\Source\RoadsOfTheRim\obj\Debug\RoadsOfTheRim.csproj.AssemblyReference.cache
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRimCont Master\RoadsOfTheRim-1.4.2\Source\RoadsOfTheRim\obj\Debug\RoadsOfTheRim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRimCont Master\RoadsOfTheRim-1.4.2\Source\RoadsOfTheRim\obj\Debug\RoadsOfTheRim.AssemblyInfoInputs.cache
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRimCont Master\RoadsOfTheRim-1.4.2\Source\RoadsOfTheRim\obj\Debug\RoadsOfTheRim.AssemblyInfo.cs
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRimCont Master\RoadsOfTheRim-1.4.2\Source\RoadsOfTheRim\obj\Debug\RoadsOfTheRim.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRimCont Master\RoadsOfTheRim-1.4.2\Source\RoadsOfTheRim\obj\Debug\RoadsOfTheRim.csproj.CopyComplete
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRimCont Master\RoadsOfTheRim-1.4.2\Source\RoadsOfTheRim\obj\Debug\RoadsOfTheRim.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RRotR Draft\1.4\Assemblies\RoadsOfTheRim.dll
