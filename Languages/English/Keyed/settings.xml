@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RoadsOfTheRim>Rails and Roads of the Rim</RoadsOfTheRim>
+  <RoadsOfTheRimAddConstructionSite>Construct</RoadsOfTheRimAddConstructionSite>
+  <RoadsOfTheRimAddConstructionSiteDescription>Create rail or road construction site</RoadsOfTheRimAddConstructionSiteDescription>
+  <RoadsOfTheRim_BiomePreventsConstruction>{0} cannot be built in {1}</RoadsOfTheRim_BiomePreventsConstruction>
+  <RoadsOfTheRimRemoveConstructionSite>Cancel construction</RoadsOfTheRimRemoveConstructionSite>
+  <RoadsOfTheRimRemoveConstructionSiteDescription>Remove rail or road construction site</RoadsOfTheRimRemoveConstructionSiteDescription>
+  <RoadsOfTheRim_ConfirmDestroyResourcesAlreadyConsumed>By removing this site, you will lose all resources already consumed: {0}</RoadsOfTheRim_ConfirmDestroyResourcesAlreadyConsumed>
+  <RoadsOfTheRim_ConstructionSiteDescription_Main>Construction {0} done</RoadsOfTheRim_ConstructionSiteDescription_Main>
+  <RoadsOfTheRim_ConstructionSiteDescription_Help>, helped by {0} [{1} work@{2}/sec]</RoadsOfTheRim_ConstructionSiteDescription_Help>
+  <RoadsOfTheRim_ConstructionSiteDescription_HelpStartsWhen> starting in {0} days</RoadsOfTheRim_ConstructionSiteDescription_HelpStartsWhen>
+  <RoadsOfTheRim_ConstructionSiteDescription_CostModifiers>. + {0} : Elevation {1}, Hills {2}, Swamps {3}, bridges {4}</RoadsOfTheRim_ConstructionSiteDescription_CostModifiers>
+  <RoadsOfTheRim_ConstructionSiteDescription_Resource>{1} {0} left of {2}{3}</RoadsOfTheRim_ConstructionSiteDescription_Resource>
+  <RoadsOfTheRim_WITab_Caravan_Build>Build</RoadsOfTheRim_WITab_Caravan_Build>
+  <RoadsOfTheRim_commsAskHelp>Ask ally for help on rail or road construction (cost: 10 goodwill)</RoadsOfTheRim_commsAskHelp>
+  <RoadsOfTheRim_commsNoSites>No construction sites found</RoadsOfTheRim_commsNoSites>
+  <RoadsOfTheRim_commsAlreadyHelping>This faction is already helping with rail or road construction</RoadsOfTheRim_commsAlreadyHelping>
+  <RoadsOfTheRim_commsHasHelpedRecently>This faction has helped rail or road construction recently. It can help again in {0} days</RoadsOfTheRim_commsHasHelpedRecently>
+  <RoadsOfTheRim_commsNotClose>{0} is not close enough to help on this construction site</RoadsOfTheRim_commsNotClose>
+  <RoadsOfTheRim_commsAnotherFactionIsHelping>{0} is already helping with this construction site</RoadsOfTheRim_commsAnotherFactionIsHelping>
+  <RoadsOfTheRim_commsNotDevelopedEnough>{0} is not developed enough to build {1}</RoadsOfTheRim_commsNotDevelopedEnough>
+  <RoadsOfTheRim_commsSitesList>Construction sites</RoadsOfTheRim_commsSitesList>
+  <RoadsOfTheRim_commsCancel>Cancel - no goodwill cost</RoadsOfTheRim_commsCancel>
+  <RoadsOfTheRim_FactionStartsHelping>Help with construction</RoadsOfTheRim_FactionStartsHelping>
+  <RoadsOfTheRim_FactionStartsHelpingText>{0} has agreed to help build {1}, help will start in {2} days</RoadsOfTheRim_FactionStartsHelpingText>
+  <RoadsOfTheRim_FactionStopsHelping>Help cancelled</RoadsOfTheRim_FactionStopsHelping>
+  <RoadsOfTheRim_FactionStopsHelpingText>{0} is not your ally any more and has stopped helping on the construction of {1}</RoadsOfTheRim_FactionStopsHelpingText>
+  <RoadsOfTheRimWorkOnSite>Work</RoadsOfTheRimWorkOnSite>
+  <RoadsOfTheRimWorkOnSiteDescription>Work on road construction site</RoadsOfTheRimWorkOnSiteDescription>
+  <RoadsOfTheRim_InsufficientConstructionMinLevel>Rail or road construction reduced to {0} : needed {1} of the workforce to have at least a Construction skill of {2}</RoadsOfTheRim_InsufficientConstructionMinLevel>
+  <RoadsOfTheRimSettingsCategoryLabel>Rails and Roads of the Rim</RoadsOfTheRimSettingsCategoryLabel>
+  <RoadsOfTheRimSettingsBaseEffort>Base multiplier to rail and road building costs</RoadsOfTheRimSettingsBaseEffort>
+  <RoadsOfTheRimSettingsOverrideCosts>Override standard movement multipliers (requires game restart)</RoadsOfTheRimSettingsOverrideCosts>
+  <RoadsOfTheRimSettingsElevationThreshold>Elevation at which costs increase starts</RoadsOfTheRimSettingsElevationThreshold>
+  <RoadsOfTheRimSettingsUpgradeRebate>Percentage of resources salvaged from existing rails and roads</RoadsOfTheRimSettingsUpgradeRebate>
+  <RoadsOfTheRim_CaravanInspectStringWorkingOn>Working on : {0} [{1} work/sec]</RoadsOfTheRim_CaravanInspectStringWorkingOn>
+  <RoadsOfTheRimBuildConstructionSiteAlreadyHere>There is already a construction site here</RoadsOfTheRimBuildConstructionSiteAlreadyHere>
+  <RoadsOfTheRimBuildConstructionSiteNotAlreadyHere>There is no construction site here</RoadsOfTheRimBuildConstructionSiteNotAlreadyHere>
+  <RoadsOfTheRim_CreateConstructionSiteMenuOption>{0} (movement: {1})</RoadsOfTheRim_CreateConstructionSiteMenuOption>
+  <RoadsOfTheRim_NoBetterRoadCouldBeBuilt>No better rail or road could be built</RoadsOfTheRim_NoBetterRoadCouldBeBuilt>
+  <RoadsOfTheRim_MustPickNeighbouringTile>Must choose a neighbouring tile</RoadsOfTheRim_MustPickNeighbouringTile>
+  <RoadsOfTheRim_SameRoadAlreadyExists>A similar rail or road already exists between those two tiles</RoadsOfTheRim_SameRoadAlreadyExists>
+  <RoadsOfTheRim_BuildToHere>Build rail or road to here</RoadsOfTheRim_BuildToHere>
+  <RoadsOfTheRimStopWorkingOnSite>Stop</RoadsOfTheRimStopWorkingOnSite>
+  <RoadsOfTheRimStopWorkingOnSiteDescription>Stop working on construction site</RoadsOfTheRimStopWorkingOnSiteDescription>
+  <RotR_EveryoneDown>Everyone is down</RotR_EveryoneDown>
+  <RotR_EveryoneCrazy>Everyone is having a mental break</RotR_EveryoneCrazy>
+  <RotR_TooHeavy>Too heavy to move</RotR_TooHeavy>
+  <RotR_RestingAtNight>resting at night. Work will resume in the morning.</RotR_RestingAtNight>
+  <RotR_CaravanStopped>{0} stopped building {1} : </RotR_CaravanStopped>
+  <RotR_CaravanWakesUp>{0} resumed building {1}</RotR_CaravanWakesUp>
+  <RoadsOfTheRimBuildWorkOnSiteCantWork>{0} unable to build rail or road right now</RoadsOfTheRimBuildWorkOnSiteCantWork>
+  <RoadsOfTheRim_BetterRoadFound>{0} found {1} while building {2} and is moving to the next leg</RoadsOfTheRim_BetterRoadFound>
+  <RoadsOfTheRim_siteInspectString>Building {0} (movement difficulty {1});</RoadsOfTheRim_siteInspectString>
+  <RoadsOfTheRim_siteDescription>{0} ({1} days)</RoadsOfTheRim_siteDescription>
+  <RoadsOfTheRim_siteDescriptionExtra> and {0} more</RoadsOfTheRim_siteDescriptionExtra>
+  <RoadsOfTheRim_siteFullName>Site constructing {0}</RoadsOfTheRim_siteFullName>
+  <RoadsOfTheRim_siteFullNameNeighbours> near {0}</RoadsOfTheRim_siteFullNameNeighbours>
+  <RoadsOfTheRim_CaravanNoResource>{0} has ran out of resources to build {1}. Work stopped.</RoadsOfTheRim_CaravanNoResource>
+  <RoadsOfTheRim_CaravanNoWork>{0} has no pawn able to build {1}. Work stopped.</RoadsOfTheRim_CaravanNoWork>
+  <RoadsOfTheRim_UpgradeRebate>Existing rail or road reduces costs to build {0} by {1}</RoadsOfTheRim_UpgradeRebate>
+  <RoadsOfTheRim_UpgradeRebateDetail>{0} {1}</RoadsOfTheRim_UpgradeRebateDetail>
+  <RoadsOfTheRim_RoadBuilt>Road built</RoadsOfTheRim_RoadBuilt>
+  <RoadsOfTheRim_RoadBuiltLetterText>{0} has been built by {1}</RoadsOfTheRim_RoadBuiltLetterText>
+  <RoadsOfTheRim_RoadBuiltByAlly>your ally</RoadsOfTheRim_RoadBuiltByAlly>
+  <RoadsOfTheRim_RoadEquipment>Road equipment</RoadsOfTheRim_RoadEquipment>
+  <RoadsOfTheRim_ModVersion>Installed mod-version: {0}</RoadsOfTheRim_ModVersion>
+</LanguageData>

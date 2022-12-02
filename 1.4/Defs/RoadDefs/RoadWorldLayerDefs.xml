@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RoadWorldLayerDef>
+    <defName>WhiteLine</defName>
+    <order>500</order>
+    <color>(1.0, 1.0, 1.0)</color>
+  </RoadWorldLayerDef>
+  
+  <RoadWorldLayerDef>
+    <defName>Outtersleepers</defName>
+    <order>600</order>
+    <color>(0.5, 0.4, 0.3)</color>
+  </RoadWorldLayerDef>  
+  <RoadWorldLayerDef>
+    <defName>Rail</defName>
+    <order>700</order>
+    <color>(0.1, 0.1, 0.1)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>Innersleepers</defName>
+    <order>800</order>
+    <color>(0.5, 0.4, 0.3)</color>
+  </RoadWorldLayerDef>  
+  <RoadWorldLayerDef>
+    <defName>Tunnel</defName>
+    <order>900</order>
+    <color>(0.2, 0.2, 0.2)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>Bridges</defName>
+    <order>1000</order>
+    <color>(0.1, 0.1, 0.1)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>Stonebridge</defName>
+    <order>1100</order>
+    <color>(0.4, 0.4, 0.4)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>Asphaltbridge</defName>
+    <order>1100</order>
+    <color>(0.3, 0.3, 0.3)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>OuttersleepersBridge</defName>
+    <order>1200</order>
+    <color>(0.5, 0.4, 0.3)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>Bulletlines</defName>
+    <order>1200</order>
+    <color>(1.0, 1.0, 1.0)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>Yardballast</defName>
+    <order>1300</order>
+    <color>(0.5, 0.5, 0.5)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>Yardsleepers</defName>
+    <order>1400</order>
+    <color>(0.5, 0.4, 0.3)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>Bulletrail</defName>
+    <order>1500</order>
+    <color>(0.1, 0.1, 0.1)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>InnersleepersBridge</defName>
+    <order>1600</order>
+    <color>(0.5, 0.4, 0.3)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>Innerbulletlines</defName>
+    <order>1600</order>
+    <color>(1.0, 1.0, 1.0)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>BulletYardrail</defName>
+    <order>1700</order>
+    <color>(0.1, 0.1, 0.1)</color>
+  </RoadWorldLayerDef>
+  <RoadWorldLayerDef>
+    <defName>BulletYardlines</defName>
+    <order>1800</order>
+    <color>(1.0, 1.0, 1.0)</color>
+  </RoadWorldLayerDef>
+</Defs>

@@ -1,0 +1,38 @@
+# Changelog for RoadsOfTheRim
+
+1.4.1 - Mod updated for 1.4 and passed autotests.
+Used DeepL to update translations for ChineseSimplified, Russian
+
+
+1.3.2 - Fixed the bridge-graphic for the asphalt bridge
+
+
+1.3.1 - Complete russian translation, thank you kamikadza13
+
+
+1.0.9.0 - The sandstone flagstone terrain in this mod should now have the same color as normal sandstone instead of slate-like
+
+
+1.0.8.0 - Republish as some things seem to have changed from the beta to the current version
+
+
+1.0.7.0 - Mod updated for 1.3 and passed autotests
+
+
+1.0.6.0 - Restructured the settings menu to make it less confusing
+
+
+1.0.5.0 - Russian translation added, thanks Festival!
+
+
+1.0.4.0 - Description of worksites now show the resource-label instead of the defname
+
+
+1.0.3.0 - Set the GenStepDef order for the roads to 250 instead to avoid errors on mapgen
+
+
+1.0.2.0 - Should no longer give errors on world-gen
+
+
+1.0.1.0 - Updated to 1.2
+
