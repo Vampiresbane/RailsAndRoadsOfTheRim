@@ -263,11 +263,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dan\\OneDrive\\Desktop\\RoadsOfTheRimCont Master\\RoadsOfTheRim-1.4.2\\Source\\RoadsOfTheRim\\RoadsOfTheRim.csproj",
+      "projectUniqueName": "C:\\Users\\Dan\\OneDrive\\Desktop\\RoadsOfTheRim-main_new1.4\\Source\\RoadsOfTheRim\\RoadsOfTheRim.csproj",
       "projectName": "RoadsOfTheRim",
-      "projectPath": "C:\\Users\\Dan\\OneDrive\\Desktop\\RoadsOfTheRimCont Master\\RoadsOfTheRim-1.4.2\\Source\\RoadsOfTheRim\\RoadsOfTheRim.csproj",
+      "projectPath": "C:\\Users\\Dan\\OneDrive\\Desktop\\RoadsOfTheRim-main_new1.4\\Source\\RoadsOfTheRim\\RoadsOfTheRim.csproj",
       "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dan\\OneDrive\\Desktop\\RoadsOfTheRimCont Master\\RoadsOfTheRim-1.4.2\\Source\\RoadsOfTheRim\\obj\\",
+      "outputPath": "C:\\Users\\Dan\\OneDrive\\Desktop\\RoadsOfTheRim-main_new1.4\\Source\\RoadsOfTheRim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

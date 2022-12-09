@@ -49,9 +49,8 @@ public class ConstructionMenu : Window
     }
 
     public override Vector2 InitialSize => new Vector2(1700 + 128, 544 + 128);
-    // trying to make the whole menu larger by making the x value above larger, original is 676+128, assuming 64 for legend, that's about 122.4 per road option
-    // 1469 is not quite large enough, but I was right, the x value above does change the whole menu width.  Let's try 1700.  Yes, that works! -Vamp
-
+    // trying to make the whole menu larger by making the x value above larger, original is 676+128, assuming 64 for legend, that's about 122.4 per road option -
+    // 1469 is not quite large enough, but I was right, the x value above does change the whole menu width.  Let's try 1700.  Yes, that works! - Vamp
 
     public int CountBuildableRoads()
     {
@@ -142,9 +141,6 @@ public class ConstructionMenu : Window
             }
 
             GUI.BeginGroup(new Rect(new Vector2(64 + (144 * nbOfSections), 32f), groupSize));
-            // the 32f shifts the whole "table" down, 64 is the legend width, 144 is the width of each option, all these together are
-            // the size of the table within the menu; none change the size of the menu however - Vamp
-
 
             // Buildable Road icon
             var theButton = ContentFinder<Texture2D>.Get($"UI/Commands/Build_{aDef.defName}");

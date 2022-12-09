@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ss/5bY14y7rX0UrryVGjj+LpW5Cv4D9sVeWbMn52QlfnsxqAgBheR14O83pCdi3Tb0bTV0v8dGWqPsnse6Uw3Q==",
+  "dgSpecHash": "5z/L9/Yt/pH+jOHLI/mRXwDLopNHMagY4LBXE7Q3LjdHll0xoxrKuvzRM8TuxoepQVOOWIGd17pqnepeiBc8Qw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dan\\OneDrive\\Desktop\\RoadsOfTheRimCont Master\\RoadsOfTheRim-1.4.2\\Source\\RoadsOfTheRim\\RoadsOfTheRim.csproj",
+  "projectFilePath": "C:\\Users\\Dan\\OneDrive\\Desktop\\RoadsOfTheRim-main_new1.4\\Source\\RoadsOfTheRim\\RoadsOfTheRim.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dan\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3563\\krafs.rimworld.ref.1.4.3563.nupkg.sha512",
     "C:\\Users\\Dan\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512",

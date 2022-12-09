@@ -78,6 +78,16 @@ public class GenStep_CleanBuiltRoads : GenStep
                 map.terrainGrid.SetTerrain(current, TerrainDefOf.GlitterRoad);
             }
 
+            if (terrainDefHere == TerrainDefOf.Railroad)
+            {
+                map.terrainGrid.SetTerrain(current, TerrainDefOf.Railroad);
+            }
+
+            if (terrainDefHere == TerrainDefOf.Glitterrail)
+            {
+                map.terrainGrid.SetTerrain(current, TerrainDefOf.Glitterrail);
+            }
+
             if (terrainDefHere == TerrainDefOf.AsphaltRecent)
             {
                 map.terrainGrid.SetTerrain(current, TerrainDefOf.AsphaltRecent);
