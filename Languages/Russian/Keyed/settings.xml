@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RoadsOfTheRim>Rails and Roads of the Rim</RoadsOfTheRim>
+  <RoadsOfTheRimAddConstructionSite>Проложить\nдорогу</RoadsOfTheRimAddConstructionSite>
+  <RoadsOfTheRimAddConstructionSiteDescription>Создать железнодорожную или дорожную строительную площадку</RoadsOfTheRimAddConstructionSiteDescription>
+  <RoadsOfTheRim_BiomePreventsConstruction>{0} не может быть встроен в {1}</RoadsOfTheRim_BiomePreventsConstruction>
+  <RoadsOfTheRimRemoveConstructionSite>Отменить\nстроительство</RoadsOfTheRimRemoveConstructionSite>
+  <RoadsOfTheRimRemoveConstructionSiteDescription>Убрать железнодорожную или дорожную строительную площадку</RoadsOfTheRimRemoveConstructionSiteDescription>
+  <RoadsOfTheRim_ConfirmDestroyResourcesAlreadyConsumed>Удалив строительную площадку, вы потеряете все уже потребленные ресурсы: {0}</RoadsOfTheRim_ConfirmDestroyResourcesAlreadyConsumed>
+  <RoadsOfTheRim_ConstructionSiteDescription_Main>Строительство завершено на {0} </RoadsOfTheRim_ConstructionSiteDescription_Main>
+  <RoadsOfTheRim_ConstructionSiteDescription_Help>, чему способствует {0} [{1} work@{2}/sec]</RoadsOfTheRim_ConstructionSiteDescription_Help>
+  <RoadsOfTheRim_ConstructionSiteDescription_HelpStartsWhen> начинется через {0} день</RoadsOfTheRim_ConstructionSiteDescription_HelpStartsWhen>
+  <RoadsOfTheRim_ConstructionSiteDescription_CostModifiers>. + {0} : Высота {1}, Холмы {2}, Болота {3}, мосты {4}</RoadsOfTheRim_ConstructionSiteDescription_CostModifiers>
+  <RoadsOfTheRim_ConstructionSiteDescription_Resource>{1} {0} осталось от {2}{3}</RoadsOfTheRim_ConstructionSiteDescription_Resource>
+  <RoadsOfTheRim_WITab_Caravan_Build>Строить</RoadsOfTheRim_WITab_Caravan_Build>
+  <RoadsOfTheRim_commsAskHelp>Попросите союзника о помощи в строительстве железной или дорожной дороги (стоимость: 10 репутации)</RoadsOfTheRim_commsAskHelp>
+  <RoadsOfTheRim_commsNoSites>Строительных площадок не обнаружено</RoadsOfTheRim_commsNoSites>
+  <RoadsOfTheRim_commsAlreadyHelping>Эта фракция уже помогает в строительстве железных или обычных дорог</RoadsOfTheRim_commsAlreadyHelping>
+  <RoadsOfTheRim_commsHasHelpedRecently>Эта фракция уже помогает в строительстве железных или обычных дорог. Они смогут помочь снова через {0} дней</RoadsOfTheRim_commsHasHelpedRecently>
+  <RoadsOfTheRim_commsNotClose>{0} недостаточно близко, чтобы помочь на этой строительной площадке</RoadsOfTheRim_commsNotClose>
+  <RoadsOfTheRim_commsAnotherFactionIsHelping>{0} уже помогают с этой строительной площадкой</RoadsOfTheRim_commsAnotherFactionIsHelping>
+  <RoadsOfTheRim_commsNotDevelopedEnough>{0} недостаточно развит для построения {1}</RoadsOfTheRim_commsNotDevelopedEnough>
+  <RoadsOfTheRim_commsSitesList>Строительные площадки</RoadsOfTheRim_commsSitesList>
+  <RoadsOfTheRim_commsCancel>Отмена - без затрат репутации</RoadsOfTheRim_commsCancel>
+  <RoadsOfTheRim_FactionStartsHelping>Помощь в строительстве</RoadsOfTheRim_FactionStartsHelping>
+  <RoadsOfTheRim_FactionStartsHelpingText>{0} согласились помочь построить {1}, помощь начнется через {2} дней</RoadsOfTheRim_FactionStartsHelpingText>
+  <RoadsOfTheRim_FactionStopsHelping>Помощь отменена</RoadsOfTheRim_FactionStopsHelping>
+  <RoadsOfTheRim_FactionStopsHelpingText>{0} больше не является вашим союзником и перестал помогать в строительстве {1}</RoadsOfTheRim_FactionStopsHelpingText>
+  <RoadsOfTheRimWorkOnSite>Работа</RoadsOfTheRimWorkOnSite>
+  <RoadsOfTheRimWorkOnSiteDescription>Работы на дорожно-строительной площадке</RoadsOfTheRimWorkOnSiteDescription>
+  <RoadsOfTheRim_InsufficientConstructionMinLevel>Железнодорожное или дорожное строительство сокращено до {0} : требуется {1} работников имеющих по крайней мере {2} строительства</RoadsOfTheRim_InsufficientConstructionMinLevel>
+  
+  
+  <RoadsOfTheRimSettingsCategoryLabel>Rails and Roads of the Rim</RoadsOfTheRimSettingsCategoryLabel>
+  <RoadsOfTheRimSettingsBaseEffort>Базовый множитель к затратам на строительство железных и обычных дорог</RoadsOfTheRimSettingsBaseEffort>
+  <RoadsOfTheRimSettingsOverrideCosts>Переопределение стандартных множителей перемещений (требуется перезапуск игры)</RoadsOfTheRimSettingsOverrideCosts>
+  <RoadsOfTheRimSettingsElevationThreshold>Высота, с которой начинается увеличение затрат</RoadsOfTheRimSettingsElevationThreshold>
+  <RoadsOfTheRimSettingsUpgradeRebate>Процент ресурсов, извлеченных из существующих рельс и дорог</RoadsOfTheRimSettingsUpgradeRebate>
+  <RoadsOfTheRim_CaravanInspectStringWorkingOn>Работа над: {0} [{1} work/sec]</RoadsOfTheRim_CaravanInspectStringWorkingOn>
+  <RoadsOfTheRimBuildConstructionSiteAlreadyHere>Здесь уже есть строительная площадка</RoadsOfTheRimBuildConstructionSiteAlreadyHere>
+  <RoadsOfTheRimBuildConstructionSiteNotAlreadyHere>Здесь нет строительной площадки</RoadsOfTheRimBuildConstructionSiteNotAlreadyHere>
+  <RoadsOfTheRim_CreateConstructionSiteMenuOption>{0} (скорость: {1})</RoadsOfTheRim_CreateConstructionSiteMenuOption>
+  <RoadsOfTheRim_NoBetterRoadCouldBeBuilt>Нельзя улучнить текущую доорогу</RoadsOfTheRim_NoBetterRoadCouldBeBuilt>
+  <RoadsOfTheRim_MustPickNeighbouringTile>Необходимо выбрать соседнюю плитку</RoadsOfTheRim_MustPickNeighbouringTile>
+  <RoadsOfTheRim_SameRoadAlreadyExists>Подобная железная дорога уже существует между этими двумя плитками</RoadsOfTheRim_SameRoadAlreadyExists>
+  <RoadsOfTheRim_BuildToHere>Построить железную или обычную дорогу сюда</RoadsOfTheRim_BuildToHere>
+  <RoadsOfTheRimStopWorkingOnSite>Прекратить\nработу</RoadsOfTheRimStopWorkingOnSite>
+  <RoadsOfTheRimStopWorkingOnSiteDescription>Прекратить работу на строительной площадке</RoadsOfTheRimStopWorkingOnSiteDescription>
+  <RotR_EveryoneDown>Все сбиты с ног</RotR_EveryoneDown>
+  <RotR_EveryoneCrazy>У всех психический срыв</RotR_EveryoneCrazy>
+  <RotR_TooHeavy>Слишком тяжелый, чтобы двигаться</RotR_TooHeavy>
+  <RotR_RestingAtNight>отдыхает ночью. Работа возобновится утром.</RotR_RestingAtNight>
+  <RotR_CaravanStopped>{0} остановил строительство "{1}" : </RotR_CaravanStopped>
+  <RotR_CaravanWakesUp>{0} возобновил строительство "{1}"</RotR_CaravanWakesUp>
+  <RoadsOfTheRimBuildWorkOnSiteCantWork>{0} не способен строить железную или обычную дорогу прямо сейчас</RoadsOfTheRimBuildWorkOnSiteCantWork>
+  <RoadsOfTheRim_BetterRoadFound>{0} нашел {1} при построении "{2}" и переходит к следующему этапу</RoadsOfTheRim_BetterRoadFound>
+  <RoadsOfTheRim_siteInspectString>Строительство {0} (сложность передвижения {1});</RoadsOfTheRim_siteInspectString>
+  <RoadsOfTheRim_siteDescription>{0} ({1} дней)</RoadsOfTheRim_siteDescription>
+  <RoadsOfTheRim_siteDescriptionExtra>и еще {0}</RoadsOfTheRim_siteDescriptionExtra>
+  <RoadsOfTheRim_siteFullName>Строительство участка {0}</RoadsOfTheRim_siteFullName>
+  <RoadsOfTheRim_siteFullNameNeighbours> около {0}</RoadsOfTheRim_siteFullNameNeighbours>
+  <RoadsOfTheRim_CaravanNoResource>У {0} закончились ресурсы для постройки "{1}". Работа остановлена.</RoadsOfTheRim_CaravanNoResource>
+  <RoadsOfTheRim_CaravanNoWork>{0} не имеет пешки, способной построить "{1}". Работа остановлена.</RoadsOfTheRim_CaravanNoWork>
+  <RoadsOfTheRim_UpgradeRebate>Существующая железная или обычная дорога снижает затраты на строительство {0} на {1}</RoadsOfTheRim_UpgradeRebate>
+  <RoadsOfTheRim_UpgradeRebateDetail>{0} {1}</RoadsOfTheRim_UpgradeRebateDetail>
+  <RoadsOfTheRim_RoadBuilt>Дорога построена</RoadsOfTheRim_RoadBuilt>
+  <RoadsOfTheRim_RoadBuiltLetterText>{0} была построена с помощью {1}</RoadsOfTheRim_RoadBuiltLetterText>
+  <RoadsOfTheRim_RoadBuiltByAlly>вашего союзника</RoadsOfTheRim_RoadBuiltByAlly>
+  <RoadsOfTheRim_RoadEquipment>Дорожное оборудование</RoadsOfTheRim_RoadEquipment>
+  <RoadsOfTheRim_ModVersion>Установленная версия мода: {0}</RoadsOfTheRim_ModVersion>
+</LanguageData>

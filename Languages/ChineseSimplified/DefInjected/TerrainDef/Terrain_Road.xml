@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DirtRecent.label>最近压紧的泥土</DirtRecent.label>
+  <DirtRecent.description>以压紧的泥土作为路面使用，虽然并不美观，也不干净，但是他们仍然是平整好用的便宜路面，拆除压紧的泥土地面不会产出资源。</DirtRecent.description>
+
+  <StoneRecent.label>最近建造的砂岩石路</StoneRecent.label>
+  <StoneRecent.description>粗糙切割过的石头作为地板使用，并不美观，但是作为出门走走的路面来说不错。拆除砂岩石路不会产出资源。</StoneRecent.description>
+
+  <AsphaltRecent.label>最近建造的柏油路</AsphaltRecent.label>
+  <AsphaltRecent.description>最近建造的柏油路，作为道路来说非常完美。拆除柏油路不会产出资源。</AsphaltRecent.description>
+
+  <ConcreteBridge.label>混凝土桥</ConcreteBridge.label>
+  <ConcreteBridge.description>可在水面上建造的混凝土桥。可以在上面建造很重的建筑物，但他们仍能被破坏。如果桥被破坏，上面的建筑也会被一并摧毁。</ConcreteBridge.description>
+
+  <GlitterRoad.label>闪耀路</GlitterRoad.label>
+  <GlitterRoad.description>太空级别的路。拆除闪耀路不会产出资源。</GlitterRoad.description>
+
+  <Railroad.label>铁轨</Railroad.label>
+  <Railroad.description>拆除铁轨不会产出资源。</Railroad.description>
+
+  <RailroadOverpass.label>高架铁轨</RailroadOverpass.label>
+  <RailroadOverpass.description>拆除铁轨不会产出资源。</RailroadOverpass.description>
+
+  <RailYard.label>火车站</RailYard.label>
+  <RailYard.description>拆除铁轨不会产出资源。</RailYard.description>
+
+  <Glitterrail.label>闪耀铁轨</Glitterrail.label>
+  <Glitterrail.description>拆除铁轨不会产出资源。</Glitterrail.description>
+
+  <GlitterOverpass.label>闪耀高架铁轨</GlitterOverpass.label>
+  <GlitterOverpass.description>拆除铁轨不会产出资源。</GlitterOverpass.description>
+
+  <GlitterYard.label>闪耀火车站</GlitterYard.label>
+  <GlitterYard.description>拆除铁轨不会产出资源。</GlitterYard.description>
+
+  <RailTunnel.label>铁轨隧道</RailTunnel.label>
+  <RailTunnel.description>拆除铁轨不会产出资源。</RailTunnel.description>
+
+
+</LanguageData>

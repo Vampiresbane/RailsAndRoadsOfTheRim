@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RoadConstructionSite.label>路面建设地点</RoadConstructionSite.label>
+  <RoadConstructionSite.description>这个路面地点正在建设中</RoadConstructionSite.description>
+
+  <RoadConstructionLeg.label>路面建设支架</RoadConstructionLeg.label>
+  <RoadConstructionLeg.description>一个计划建设路面的区域</RoadConstructionLeg.description>
+
+
+</LanguageData>

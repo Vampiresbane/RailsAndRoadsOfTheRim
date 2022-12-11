@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchProject_RotRStoneRoad.label>石头路建造</ResearchProject_RotRStoneRoad.label>
+  <ResearchProject_RotRStoneRoad.description>允许在世界地图上建造石头路</ResearchProject_RotRStoneRoad.description>
+
+  <ResearchProject_RotRAsphaltRoad.label>柏油路建造</ResearchProject_RotRAsphaltRoad.label>
+  <ResearchProject_RotRAsphaltRoad.description>允许在世界地图上建造柏油路</ResearchProject_RotRAsphaltRoad.description>
+
+  <ResearchProject_RotRGlitterRoad.label>闪耀路建造</ResearchProject_RotRGlitterRoad.label>
+  <ResearchProject_RotRGlitterRoad.description>允许在世界地图上建造闪耀路</ResearchProject_RotRGlitterRoad.description>
+
+  <ResearchProject_RotRRailroad.label>铁轨铺设</ResearchProject_RotRRailroad.label>
+  <ResearchProject_RotRRailroad.description>允许在世界地图上铺设铁轨</ResearchProject_RotRRailroad.description>
+
+  <ResearchProject_RotRRailTunnel.label>铁路隧道建设</ResearchProject_RotRRailTunnel.label>
+  <ResearchProject_RotRRailTunnel.description>允许在世界地图上建设铁路隧道</ResearchProject_RotRRailTunnel.description>
+
+  <ResearchProject_RotRGlitterrail.label>闪耀铁轨铺设</ResearchProject_RotRGlitterrail.label>
+  <ResearchProject_RotRGlitterrail.description>允许在世界地图上铺设闪耀铁轨</ResearchProject_RotRGlitterrail.description>
+
+
+</LanguageData>

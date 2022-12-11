@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DirtPathBuilt.label>泥土小径+</DirtPathBuilt.label>
+  <DirtRoadBuilt.label>泥土路+</DirtRoadBuilt.label>
+  <StoneRoadBuilt.label>石头路+</StoneRoadBuilt.label>
+  <AsphaltRoad.label>柏油路</AsphaltRoad.label>
+  <GlitterRoad.label>闪耀路</GlitterRoad.label>
+  <Railroad.label>铁轨</Railroad.label>
+  <RailroadOverpass.label>高架铁轨</RailroadOverpass.label>
+  <RailYard.label>铁路火车站</RailYard.label>
+  <Glitterrail.label>闪耀铁路</Glitterrail.label>
+  <GlitterOverpass.label>高架闪耀铁轨</GlitterOverpass.label>
+  <GlitterYard.label>闪耀火车站</GlitterYard.label>
+  <RailTunnel.label>铁路隧道</RailTunnel.label>
+
+
+</LanguageData>

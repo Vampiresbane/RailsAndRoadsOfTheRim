@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RoadsOfTheRim>Rails and Roads of the Rim</RoadsOfTheRim>
+  <!-- 原文：Construct -->
+  <RoadsOfTheRimAddConstructionSite>施工</RoadsOfTheRimAddConstructionSite>
+  <!-- 原文：Create rail or road construction site-->
+  <RoadsOfTheRimAddConstructionSiteDescription>创建路面或铁轨的施工点</RoadsOfTheRimAddConstructionSiteDescription>
+  <!-- 原文：{0} cannot be built in {1}-->
+  <RoadsOfTheRim_BiomePreventsConstruction>{0}无法被建造在{1}</RoadsOfTheRim_BiomePreventsConstruction>
+  <!-- 原文：Cancel construction-->
+  <RoadsOfTheRimRemoveConstructionSite>取消施工</RoadsOfTheRimRemoveConstructionSite>
+  <!-- 原文：Remove rail or road construction site-->
+  <RoadsOfTheRimRemoveConstructionSiteDescription>移除路面或铁轨施工点</RoadsOfTheRimRemoveConstructionSiteDescription>
+  <!-- 原文：By removing this site, you will lose all resources already consumed: {0}-->
+  <RoadsOfTheRim_ConfirmDestroyResourcesAlreadyConsumed>移除该施工点，你将会失去所有已经消耗的资源：{0}</RoadsOfTheRim_ConfirmDestroyResourcesAlreadyConsumed>
+  <!-- 原文：Construction {0} done-->
+  <RoadsOfTheRim_ConstructionSiteDescription_Main>{0}的建造已完工</RoadsOfTheRim_ConstructionSiteDescription_Main>
+  <!-- 原文：, helped by {0} [{1} work@{2}/sec] -->
+  <RoadsOfTheRim_ConstructionSiteDescription_Help>，受到{0}的帮助[{1}工作速度@{2}/秒]</RoadsOfTheRim_ConstructionSiteDescription_Help>
+  <!-- 原文：starting in {0} days -->
+  <RoadsOfTheRim_ConstructionSiteDescription_HelpStartsWhen> 在{0}天后开始</RoadsOfTheRim_ConstructionSiteDescription_HelpStartsWhen>
+  <!-- 原文：. + {0} : Elevation {1}, Hills {2}, Swamps {3}, bridges {4} -->
+  <RoadsOfTheRim_ConstructionSiteDescription_CostModifiers>+ {0} : 海拔 {1}, 丘陵 {2}, 沼泽 {3}, 桥 {4}</RoadsOfTheRim_ConstructionSiteDescription_CostModifiers>
+  <!-- 原文：{1} {0} left of {2}{3} -->
+  <RoadsOfTheRim_ConstructionSiteDescription_Resource>{1}{0}还需要{2}{3}</RoadsOfTheRim_ConstructionSiteDescription_Resource>
+  <!-- 原文：Build -->
+  <RoadsOfTheRim_WITab_Caravan_Build>建造</RoadsOfTheRim_WITab_Caravan_Build>
+  <!-- 原文：Ask ally for help on rail or road construction (cost: 10 goodwill) -->
+  <RoadsOfTheRim_commsAskHelp>请求盟友帮助建造路面或铁轨（消耗：10好感）</RoadsOfTheRim_commsAskHelp>
+  <!-- 原文：No construction sites found -->
+  <RoadsOfTheRim_commsNoSites>没有施工点</RoadsOfTheRim_commsNoSites>
+  <!-- 原文：This faction is already helping with rail or road construction -->
+  <RoadsOfTheRim_commsAlreadyHelping>该派系已经在帮助建造路面或铁轨</RoadsOfTheRim_commsAlreadyHelping>
+  <!-- 原文：This faction has helped rail or road construction recently. It can help again in {0} days -->
+  <RoadsOfTheRim_commsHasHelpedRecently>这个派系最近已经帮助建造过路面或铁轨。在{0}天后可再次提供帮助</RoadsOfTheRim_commsHasHelpedRecently>
+  <!-- 原文：{0} is not close enough to help on this construction site -->
+  <RoadsOfTheRim_commsNotClose>{0}距离施工点太远，无法提供帮助</RoadsOfTheRim_commsNotClose>
+  <!-- 原文：{0} is already helping with this construction site -->
+  <RoadsOfTheRim_commsAnotherFactionIsHelping>{0}已经在给该施工点提供帮助</RoadsOfTheRim_commsAnotherFactionIsHelping>
+  <!-- 原文：{0} is not developed enough to build {1} -->
+  <RoadsOfTheRim_commsNotDevelopedEnough>{0}科技不足，无法建造{1}</RoadsOfTheRim_commsNotDevelopedEnough>
+  <!-- 原文：Construction sites -->
+  <RoadsOfTheRim_commsSitesList>施工点</RoadsOfTheRim_commsSitesList>
+  <!-- 原文：Cancel - no goodwill cost -->
+  <RoadsOfTheRim_commsCancel>取消（不消耗好感）</RoadsOfTheRim_commsCancel>
+  <!-- 原文：Help with construction -->
+  <RoadsOfTheRim_FactionStartsHelping>帮助施工</RoadsOfTheRim_FactionStartsHelping>
+  <!-- 原文：{0} has agreed to help build {1}, help will start in {2} days -->
+  <RoadsOfTheRim_FactionStartsHelpingText>{0}同意帮助建造{1}，将在{2}天后开始提供帮助</RoadsOfTheRim_FactionStartsHelpingText>
+  <!-- 原文：Help cancelled -->
+  <RoadsOfTheRim_FactionStopsHelping>帮助提供已取消</RoadsOfTheRim_FactionStopsHelping>
+  <!-- 原文：{0} is not your ally any more and has stopped helping on the construction of {1} -->
+  <RoadsOfTheRim_FactionStopsHelpingText>{0}已经不再是你的盟友了，所以停止帮助建造{1}</RoadsOfTheRim_FactionStopsHelpingText>
+  <!-- 原文：Work -->
+  <RoadsOfTheRimWorkOnSite>工作</RoadsOfTheRimWorkOnSite>
+  <!-- 原文：Work on road construction site -->
+  <RoadsOfTheRimWorkOnSiteDescription>在施工点开始工作</RoadsOfTheRimWorkOnSiteDescription>
+  <!-- 原文：Rail or road construction reduced to {0} : needed {1} of the workforce to have at least a Construction skill of {2} -->
+  <RoadsOfTheRim_InsufficientConstructionMinLevel>路面或铁轨建造进度减少到{0}：需要{1}个至少拥有{2}级建造技能的劳动力</RoadsOfTheRim_InsufficientConstructionMinLevel>
+  <!-- 原文：Rails and Roads of the Rim -->
+  <RoadsOfTheRimSettingsCategoryLabel>Rails and Roads of the Rim</RoadsOfTheRimSettingsCategoryLabel>
+  <!-- 原文：Base multiplier to rail and road building costs -->
+  <RoadsOfTheRimSettingsBaseEffort>路面或铁路建造消耗的基础倍率</RoadsOfTheRimSettingsBaseEffort>
+  <!-- 原文：Override standard movement multipliers (requires game restart) -->
+  <RoadsOfTheRimSettingsOverrideCosts>覆写标准移动速度倍率 （需要重启游戏）</RoadsOfTheRimSettingsOverrideCosts>
+  <!-- 原文：Elevation at which costs increase starts -->
+  <RoadsOfTheRimSettingsElevationThreshold>高于此海拔，建造成本开始增加</RoadsOfTheRimSettingsElevationThreshold>
+  <!-- 原文：Percentage of resources salvaged from existing rails and roads -->
+  <RoadsOfTheRimSettingsUpgradeRebate>现有道路的资源回收百分比</RoadsOfTheRimSettingsUpgradeRebate>
+  <!-- EN: Use In Situ Road Ressource Gatherer -->
+  <RoadsOfTheRimSettingsUseISR2G>使用ISR2G</RoadsOfTheRimSettingsUseISR2G>
+  <!-- 原文：Working on : {0} [{1} work/sec] -->
+  <RoadsOfTheRim_CaravanInspectStringWorkingOn>工作中：{0}[{1}工作进度/秒]</RoadsOfTheRim_CaravanInspectStringWorkingOn>
+  <!-- 原文：There is already a construction site here -->
+  <RoadsOfTheRimBuildConstructionSiteAlreadyHere>这里已经有一个施工点</RoadsOfTheRimBuildConstructionSiteAlreadyHere>
+  <!-- 原文：There is no construction site here -->
+  <RoadsOfTheRimBuildConstructionSiteNotAlreadyHere>这里没有施工点</RoadsOfTheRimBuildConstructionSiteNotAlreadyHere>
+  <!-- 原文：{0} (movement: {1}) -->
+  <RoadsOfTheRim_CreateConstructionSiteMenuOption>{0}（移动量：{1}）</RoadsOfTheRim_CreateConstructionSiteMenuOption>
+  <!-- 原文：No better rail or road could be built -->
+  <RoadsOfTheRim_NoBetterRoadCouldBeBuilt>没有更好的路面或铁轨可以建造</RoadsOfTheRim_NoBetterRoadCouldBeBuilt>
+  <!-- 原文：Must choose a neighbouring tile -->
+  <RoadsOfTheRim_MustPickNeighbouringTile>必须选择相邻的区块</RoadsOfTheRim_MustPickNeighbouringTile>
+  <!-- 原文：A similar rail or road already exists between those two tiles -->
+  <RoadsOfTheRim_SameRoadAlreadyExists>这两个区块之间已经有类似的路面或铁轨了</RoadsOfTheRim_SameRoadAlreadyExists>
+  <!-- 原文：Build rail or road to here -->
+  <RoadsOfTheRim_BuildToHere>在该处建造路面或铁轨</RoadsOfTheRim_BuildToHere>
+  <!-- 原文：Stop -->
+  <RoadsOfTheRimStopWorkingOnSite>停止</RoadsOfTheRimStopWorkingOnSite>
+  <!-- 原文：Stop working on construction site -->
+  <RoadsOfTheRimStopWorkingOnSiteDescription>停止在该施工点的工作</RoadsOfTheRimStopWorkingOnSiteDescription>
+  <!-- 原文：Everyone is down -->
+  <RotR_EveryoneDown>所有人都倒下了</RotR_EveryoneDown>
+  <!-- 原文：Everyone is having a mental break -->
+  <RotR_EveryoneCrazy>所有人都精神崩溃了</RotR_EveryoneCrazy>
+  <!-- 原文：Too heavy to move -->
+  <RotR_TooHeavy>超重了，无法移动</RotR_TooHeavy>
+  <!-- 原文：resting at night. Work will resume in the morning. -->
+  <RotR_RestingAtNight>夜间休息。工作将在早上开始。</RotR_RestingAtNight>
+  <!-- 原文：{0} stopped building {1} :  -->
+  <RotR_CaravanStopped>{0}停止建造{1}：</RotR_CaravanStopped>
+  <!-- 原文：{0} resumed building {1} -->
+  <RotR_CaravanWakesUp>{0}继续建造{1}</RotR_CaravanWakesUp>
+  <!-- 原文：{0} unable to build rail or road right now -->
+  <RoadsOfTheRimBuildWorkOnSiteCantWork>{0}现在无法建造路面或铁轨</RoadsOfTheRimBuildWorkOnSiteCantWork>
+  <!-- 原文：{0} found {1} while building {2} and is moving to the next leg -->
+  <RoadsOfTheRim_BetterRoadFound>{1}在建造{2}时发现了{0}，正在移动到下一段路</RoadsOfTheRim_BetterRoadFound>
+  <!-- 原文：Building {0} (movement difficulty {1}); -->
+  <RoadsOfTheRim_siteInspectString>正在建造{0}（移动难度{1}）</RoadsOfTheRim_siteInspectString>
+  <!-- 原文：{0} ({1} days) -->
+  <RoadsOfTheRim_siteDescription>{0} ({1} days)</RoadsOfTheRim_siteDescription>
+  <!-- 原文： and {0} more -->
+  <RoadsOfTheRim_siteDescriptionExtra>还有{0}个施工点</RoadsOfTheRim_siteDescriptionExtra>
+  <!-- 原文：Site constructing {0} -->
+  <RoadsOfTheRim_siteFullName>施工点{0}</RoadsOfTheRim_siteFullName>
+  <!-- 原文：near {0} -->
+  <RoadsOfTheRim_siteFullNameNeighbours>在{0}旁边</RoadsOfTheRim_siteFullNameNeighbours>
+  <!-- 原文：{0} has ran out of resources to build {1}. Work stopped. -->
+  <RoadsOfTheRim_CaravanNoResource>{0}已经用光了建造{1}所需要的资源。工作停止。</RoadsOfTheRim_CaravanNoResource>
+  <!-- 原文：{0} has no pawn able to build {1}. Work stopped. -->
+  <RoadsOfTheRim_CaravanNoWork>{0}没有人能够建造{1}。工作停止。</RoadsOfTheRim_CaravanNoWork>
+  <!-- 原文：Existing rail or road reduces costs to build {0} by {1} -->
+  <RoadsOfTheRim_UpgradeRebate>现存的路面或铁路降低了从{1}改造成{0}的建造成本</RoadsOfTheRim_UpgradeRebate>
+  <!-- 原文：{0} {1} -->
+  <RoadsOfTheRim_UpgradeRebateDetail>{0} {1}</RoadsOfTheRim_UpgradeRebateDetail>
+  <!-- 原文：Road built -->
+  <RoadsOfTheRim_RoadBuilt>道路建设</RoadsOfTheRim_RoadBuilt>
+  <!-- 原文：{0} has been built by {1} -->
+  <RoadsOfTheRim_RoadBuiltLetterText>{0}已经由{1}建造完成</RoadsOfTheRim_RoadBuiltLetterText>
+  <!-- 原文：your ally -->
+  <RoadsOfTheRim_RoadBuiltByAlly>你的盟友</RoadsOfTheRim_RoadBuiltByAlly>
+  <!-- 原文：Road equipment -->
+  <RoadsOfTheRim_RoadEquipment>道路设备</RoadsOfTheRim_RoadEquipment>
+  <!-- 原文： -->
+  <RoadsOfTheRim_ModVersion>mod版本: {0}</RoadsOfTheRim_ModVersion>
+</LanguageData>
