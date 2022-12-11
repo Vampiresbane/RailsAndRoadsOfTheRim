@@ -1,0 +1,8 @@
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRim-master\Source\obj\Debug\RoadsOfTheRim.csproj.AssemblyReference.cache
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRim-master\Source\obj\Debug\RoadsOfTheRim.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRim-master\v1.1\Assemblies\RoadsOfTheRim.dll
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRim-master\v1.1\Assemblies\RoadsOfTheRim.pdb
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRim-master\Source\obj\Debug\RoadsOfTheRim.dll
+C:\Users\Dan\OneDrive\Desktop\RoadsOfTheRim-master\Source\obj\Debug\RoadsOfTheRim.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RRotR Draft\1.3\Assemblies\RoadsOfTheRim.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RRotR Draft\1.3\Assemblies\RoadsOfTheRim.pdb
