@@ -81,6 +81,9 @@ public class RoadConstructionLeg : WorldObject
 
                 // The cost modifier doesn't affect some advanced resources, as defined in static DefModExtension_RotR_RoadDef.allResourcesWithoutModifiers
                 // TO DO : COuld this be combined with WorldObjectComp_ConstructionSite.setCosts() ? shares a lot in common except rebates. Can we really calcualte rebate on a leg ?
+                // I took out the "advanced resources" since it was not properly being updated by the construction menu when changing the mod settings.  Plus game play-wise
+                // it did not make sense to me to alter some costs but not all if the player was determining the % change themselves. -Vamp 1210222
+
                 var costModifierForThisResource =
                     DefModExtension_RotR_RoadDef.allResourcesWithoutModifiers.Contains(resourceName)
                         ? 1

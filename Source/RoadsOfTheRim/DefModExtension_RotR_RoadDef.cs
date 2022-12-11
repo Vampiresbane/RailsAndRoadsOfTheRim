@@ -17,7 +17,10 @@ public class DefModExtension_RotR_RoadDef : DefModExtension
         "ComponentSpacer"
     };
 
-    public static string[] allResourcesWithoutModifiers = { "Uranium", "ComponentIndustrial", "ComponentSpacer" };
+    public static string[] allResourcesWithoutModifiers = {};
+    // testing if removing this makes it so Uranium and Components are affected by mod settings. -Vamp 12102022
+    // Removed "  "Uranium", "ComponentIndustrial", "ComponentSpacer" " so mod settings would affect them.  Might put Uranimu back in if this does not work.
+
     // Base roads (DirtPath, DirtRoad, StoneRoad, AncientAsphaltRoad, AncientAsphaltHighway) will have this set to false, 
     // Built roads (DirtPath+, DirtRoad+, StoneRoad+, AsphaltRoad+, GlitterRoad) will have this set to true
     // Built roads will prevent rocks from being generated on top of them on maps
