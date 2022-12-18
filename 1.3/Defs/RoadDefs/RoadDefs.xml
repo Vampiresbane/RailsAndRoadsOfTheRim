@@ -300,7 +300,7 @@
     <label>railroad</label>
     <priority>40</priority>
     <ancientOnly>true</ancientOnly>
-    <movementCostMultiplier>0.6</movementCostMultiplier>
+    <movementCostMultiplier>0.55</movementCostMultiplier>
     <tilesPerSegment>100</tilesPerSegment>
     <pathingMode>Avoid</pathingMode>
     <roadGenSteps>
@@ -360,7 +360,7 @@
     <label>rail overpass</label>
     <priority>40</priority>
     <ancientOnly>true</ancientOnly>
-    <movementCostMultiplier>0.6</movementCostMultiplier>
+    <movementCostMultiplier>0.55</movementCostMultiplier>
     <tilesPerSegment>100</tilesPerSegment>
     <pathingMode>Bulldoze</pathingMode>
     <roadGenSteps>
@@ -424,7 +424,7 @@
     <label>railyard</label>
     <priority>40</priority>
     <ancientOnly>true</ancientOnly>
-    <movementCostMultiplier>0.6</movementCostMultiplier>
+    <movementCostMultiplier>0.55</movementCostMultiplier>
     <tilesPerSegment>100</tilesPerSegment>
     <pathingMode>Avoid</pathingMode>
     <roadGenSteps>
@@ -508,7 +508,7 @@
     <label>glitterrail</label>
     <priority>40</priority>
     <ancientOnly>true</ancientOnly>
-    <movementCostMultiplier>0.6</movementCostMultiplier>
+    <movementCostMultiplier>0.55</movementCostMultiplier>
     <tilesPerSegment>100</tilesPerSegment>
     <pathingMode>Avoid</pathingMode>
     <roadGenSteps>
@@ -571,7 +571,7 @@
     <label>glit overpass</label>
     <priority>40</priority>
     <ancientOnly>true</ancientOnly>
-    <movementCostMultiplier>0.6</movementCostMultiplier>
+    <movementCostMultiplier>0.55</movementCostMultiplier>
     <tilesPerSegment>100</tilesPerSegment>
     <pathingMode>Bulldoze</pathingMode>
     <roadGenSteps>
@@ -638,7 +638,7 @@
     <label>glitteryard</label>
     <priority>40</priority>
     <ancientOnly>true</ancientOnly>
-    <movementCostMultiplier>0.6</movementCostMultiplier>
+    <movementCostMultiplier>0.55</movementCostMultiplier>
     <tilesPerSegment>100</tilesPerSegment>
     <pathingMode>Avoid</pathingMode>
     <roadGenSteps>
@@ -709,7 +709,7 @@
     <label>rail tunnel</label>
     <priority>40</priority>
     <ancientOnly>true</ancientOnly>
-    <movementCostMultiplier>0.6</movementCostMultiplier>
+    <movementCostMultiplier>0.55</movementCostMultiplier>
     <tilesPerSegment>100</tilesPerSegment>
     <pathingMode>Avoid</pathingMode>
     <roadGenSteps>
